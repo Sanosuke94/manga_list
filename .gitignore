@@ -14,6 +14,7 @@ public/javascripts/cache/*
 public/stylesheets/cache/*
 public/themes
 public/files/*
+public/packs/*
 *.swp
 vendor/engines/adva_rbac/spec/db/*.sqlite3
 vendor/engines/adva_rbac/spec/log/*
